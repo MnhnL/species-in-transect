@@ -1,0 +1,4 @@
+elasticsearch6
+shapely
+pyproj
+numpy<2 # or else es6 does't work correctly
